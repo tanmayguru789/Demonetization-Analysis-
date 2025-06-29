@@ -1,5 +1,6 @@
 # Demonetization-Analysis-
-About;
+About the project:
+
 This project investigates the comprehensive impact of India’s 2016 demonetisation policy, which invalidated ₹500 and ₹1,000 notes—86% of the currency in circulation at the time. The policy, announced by the Government of India on November 8, 2016, aimed to combat black money, eliminate counterfeit currency, curb corruption, and promote a cashless economy.
 
 The report explores both the short-term disruptions and long-term structural implications across multiple sectors including agriculture, retail, SMEs, banking, and digital finance. It examines the immediate liquidity crunch and its adverse effects on GDP, employment, consumption, and market sentiment. Simultaneously, it tracks positive outcomes such as the rise in digital payments, increased tax compliance, and financial inclusion.
